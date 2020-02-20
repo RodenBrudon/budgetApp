@@ -5,7 +5,7 @@ A simple application to create a budget and to track income and expenses.
 # Technologies
 
 Vanilla JavaScript <br/>
-life-server - A dev server with life-reload feature
+live-server - A dev server with live-reload feature
 
 # Try it
 donwload it
