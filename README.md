@@ -16,3 +16,6 @@ git clone https://github.com/RodenBrudon/budgetApp.git
 
 if you prefer to run it through a local host then try 'life-server'
 
+# Acknowledgments
+Big thank you to Jonas Schmedtmann and his online learning materials
+
